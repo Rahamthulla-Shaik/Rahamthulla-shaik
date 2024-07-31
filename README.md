@@ -6,7 +6,7 @@
 
 🎓 By education, I hold a Post Graduation in Mechanical Engineering from QIS College Of Engineering and Technological,Ongole.
 
-💼 My proficiency lies in SQL | EXCEL | POWER BI | TABLEAU | Python(Basics) |
+💼 My proficiency lies in SQL | Advanced EXCEL | POWER BI | Statistics | Python |I provide valuable insights that can guide strategic decisions from big data |
 
 💻 I'm a fervent advocate for data-driven decision-making, and I'm always ready to craft impactful data visualizations.
 
